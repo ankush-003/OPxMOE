@@ -1,4 +1,8 @@
-# Capstone Project
+# OPxMOE
+
+## Architecture
+
+![image](https://github.com/user-attachments/assets/51d46ad4-5f4e-48f4-bad0-74e263edab75)
 
 ## Meeting Notes
 
